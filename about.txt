@@ -1,0 +1,5 @@
+I am a recent graduate from Harvard University, holding an AB/SM in Applied Mathematics. Passionate about harnessing the power of data and software to tackle complex challenges, I am committed to crafting impactful narratives through insightful analysis.
+
+My academic journey has equipped me with a robust skill set in cutting-edge technologies and methodologies. I am proficient in leveraging BERT for natural language processing, skilled in data analysis to derive meaningful insights, and adept in mobile application development. These competencies have been honed through rigorous coursework, dedicated research endeavors, and hands-on internships.
+
+Driven by a curiosity to explore the intersection of mathematics, technology, and storytelling, I am eager to contribute to innovative projects and collaborate with like-minded professionals to make a lasting impact.
