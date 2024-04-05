@@ -1,0 +1,39 @@
+.body {
+    background-color:  #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.category {
+    flex: 1;
+    /* border: 1px solid black; Corrected border property */
+    /* text-align:  center; */
+}
+
+.year {
+    flex: .2;
+    /* border: 1px solid black; Corrected border property */
+    /* text-align: center; */
+}
+
+.details {
+    flex: 1;
+    /* border: 1px solid black; Corrected border property */
+    text-align: left;
+    padding-right: 50px;
+    
+}
+
+.experience-details{
+    display: flex;
+    text-align: center;
+    color: #343434;
+}

@@ -20,19 +20,18 @@
     /* align-items: center;  */
 }
 
-.ReachOutButton{
+
+
+.ReachOutButton {
     text-align: center;
-    /* padding: 1px; */
+    padding: 2px 20px; /* Adjust padding for button size */
     background-color: #acaa93;
     color: white;
-}
-
-.navbar {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-    background-color: #acaa93;
-}
+    display: inline-block; /* Make the button inline-block to size to content */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+  }
 
 .about {
     /* text-align: center; */
